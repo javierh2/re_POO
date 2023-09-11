@@ -5,7 +5,7 @@ class Persona:
         self.nacionalidad = nacionalidad
 
     def hablar(self):
-        print(f"{self.nombre} está hablando")
+        print(f"{self.nombre} está hablando y habla mucho")
 
 
 class Empleado(Persona):
